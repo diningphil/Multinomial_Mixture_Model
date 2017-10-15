@@ -7,3 +7,6 @@ The graphical model is the following (shaded means observed):
 
 where Q and y can take C and k different labels respectively.
 
+An example of the output of the plots:
+
+![Example](/images/example.png)
